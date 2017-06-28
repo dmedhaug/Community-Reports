@@ -8,6 +8,7 @@
 1. Click Add Report
 1. Fill in the Add/Edit Report form as shown below.
 1. Click Save
+
 ![Report Configuration](https://github.com/JamaSoftware/Community-Reports/blob/master/Test%20Results%20Report%20-%20Grouped%20by%20Test%20Case/config.png)
 
 NOTES: 
